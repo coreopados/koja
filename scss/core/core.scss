@@ -1,0 +1,17 @@
+
+
+@media (min-width: 576px) {
+  /*Минимальная ширина 576*/
+}
+
+@media (max-width: 576px) {
+  /*Максимальная ширина 576*/
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+  /*Диапазон от 576 до 767*/
+}
+
+@media (man-width: 576px) and (mix-width: 767px) {
+  /*Диапазон Исключения от 576 до 767*/
+}
